@@ -13,7 +13,7 @@ body{
 h1{
     color: #5b5656;
     margin:50px auto 0 auto ;
-    font-size: 5.625rem;
+    font-size: 500%;
     font-family: 'Sacramento' , cursive;
 }
 
@@ -62,36 +62,27 @@ a:hover{
     top: 10%;   
 }
 
-.B-cloud{
-    width: 10%;
-    position: absolute;
-    left: 10%;
-    bottom: 40%;
-}
+
 .C-cloud{
     width: 10%;
     position: absolute;
     left: 20%;
     top: 20%;
 }
-.D-cloud{
-    width: 10%;
-    position: absolute;
-    right: 20%;
-    bottom: 35%;
-}
+
 .Mount{
-    width: 50%;
+    width: 70%;
 }
 
 /*********************Profile*********************/
 
 .profile{
-    width: 50%;
+    width: 70%;
     margin: 40px auto;
     line-height: 2;
 }
 .my-picture{
+    margin: auto;
     width: 15rem;
     height: 15rem;
 }
@@ -110,7 +101,7 @@ a:hover{
 
 /*********************Skills*********************/
 .skill-row{
-    width: 50%;
+    width: 70%;
     margin: 50px auto;
     text-align: left;
     line-height: 2;
@@ -160,11 +151,8 @@ a:hover{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    padding: 10px;
     text-decoration: none;
-    margin-bottom: 1000px;
-
-
   }
   
   .btn:hover {
